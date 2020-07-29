@@ -1,0 +1,25 @@
+.container {
+    grid-area: session;
+}
+
+.title {
+    color:#444;
+    font-size: 28px;
+}
+
+.sessionLength {
+    color:#444;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.increment,
+.decrement {
+    background: #444;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0 20px;
+}

@@ -1,0 +1,34 @@
+.container {
+    grid-area: timer;
+    margin-top: 50px;
+}
+
+.timerLabel {
+    font-size: 36px;
+    color: red;
+}
+.startStop {
+    background: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 10px; 
+}
+
+.reset {
+    background: #444;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 10px; 
+}
+
+.timeLeft {
+    color: red;
+    font-size: 48px;
+    font-weight: bold;
+}
